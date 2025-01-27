@@ -1,7 +1,7 @@
 # Mini-jeux
 # Projet : Mini-Jeux
 
-Ce projet a été réalisé dans le cadre d'un projet de cours. Il propose un ensemble de mini-jeux interactifs jouables en mode console, mettant en œuvre des fonctionnalités telles que la gestion des joueurs et la sauvegarde des scores.
+Ce projet a été réalisé dans le cadre d'un projet de cours. Il propose un ensemble de mini-jeux jouables en mode console, mettant en œuvre des fonctionnalités telles que la gestion des joueurs et la sauvegarde des scores. Vous avez la possibilité de jouer avec un autre joueur ou des bots.
 
 ---
 
