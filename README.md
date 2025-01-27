@@ -23,21 +23,18 @@ Ce programme offre une expérience ludique pour deux joueurs grâce à un menu i
 ---
 
 ## **Prérequis**
-- Python
+- Python.
 - Aucun module externe requis (les bibliothèques standards sont utilisées).
 
 ---
 
 ## **Installation et exécution**
-1. Telechargez le fichier Mini-jeux.zip
-2. Extrayez les fichiers du dossier compressé
-3. Cliquez droit de la souris puis ouvrez le terminal
-4. Entrez la commande python .\mini_jeu.py
+1. Telechargez le fichier Mini-jeux.zip.
+2. Extrayez les fichiers du dossier compressé.
+3. Cliquez droit de la souris puis ouvrez le terminal.
+4. Entrez la commande python .\mini_jeu.py.
 
 ---
-
-## ****
-
 
 ## **Utilisation**
 Le programme s'exécute entièrement en console. Naviguez dans les menus en entrant les numéros correspondant aux options souhaitées.
