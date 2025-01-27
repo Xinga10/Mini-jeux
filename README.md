@@ -29,35 +29,17 @@ Ce programme offre une expérience ludique pour deux joueurs grâce à un menu i
 ---
 
 ## **Installation et exécution**
-1. Telechargez le fichier
+1. Telechargez le fichier Mini-jeux.zip
+2. Extrayez les fichiers du dossier compressé
+3. Cliquez droit de la souris puis ouvrez le terminal
+4. Entrez la commande python .\mini_jeu.py
 
 ---
+
+## ****
+
 
 ## **Utilisation**
 Le programme s'exécute entièrement en console. Naviguez dans les menus en entrant les numéros correspondant aux options souhaitées.
 
-- **Menu principal** : Permet d'accéder aux différentes sections du programme.
-- **Menu Joueurs** : Gérez les profils des joueurs.
-- **Menu Jeux** : Choisissez et jouez à l'un des quatre mini-jeux.
-
 ---
-
-## **Tests et validation**
-Des jeux d’essais ont été réalisés pour valider les fonctionnalités principales :
-
-- Gestion correcte des entrées utilisateurs (valeurs valides et invalides).
-- Sauvegarde et chargement des données via le module `pickle`.
-- Détection des conditions de victoire ou d’échec dans chaque jeu.
-
----
-
-## **Améliorations futures**
-Voici quelques idées pour enrichir ce projet :
-
-- Projet fini
-
----
-
-## **Contributeurs**
-- **Sébastien Dabert** - Étudiant BUT 1 INFO, Groupe 3b.
-- **Célia Larousse** - Étudiante BUT 1 INFO, Groupe 3b.
