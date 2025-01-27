@@ -6,8 +6,7 @@ Ce projet a été réalisé dans le cadre d'un projet de cours. Il propose un en
 ---
 
 ## **Description**
-Ce programme offre une expérience ludique pour deux joueurs grâce à un menu interactif permettant de naviguer entre les différentes 
-sections :
+Ce programme offre une expérience ludique pour deux joueurs grâce à un menu interactif permettant de naviguer entre les différentes sections:
 
 - **Gestion des joueurs** :
   - Création de nouveaux joueurs.
