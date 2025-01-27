@@ -35,8 +35,8 @@ Ce programme offre une expérience ludique pour deux joueurs grâce à un menu i
 1. Telechargez le code.
 2. Extrayez les fichiers du dossier compressé.
 3. Cliquez droit de la souris puis ouvrez le terminal.
-4. Entrez la commande python .\mini_jeu.py.
-
+4. Entrez la commande `python .\mini_jeu.py`.
+   
 ---
 
 ## **Utilisation**
