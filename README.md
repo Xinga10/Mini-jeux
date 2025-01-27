@@ -44,7 +44,7 @@ Le programme s'exécute entièrement en console. Naviguez dans les menus en entr
 
 ---
 
-# Mini-Games  
+# Mini-Games
 ## Project: Mini-Games  
 
 This project was developed as part of a coursework project. It offers a collection of console-based mini-games, featuring functionalities such as player management and score saving. You can play with another player or against bots.  
@@ -57,7 +57,7 @@ This program provides a fun experience for two players through an interactive me
 - **Player Management**:  
   - Create new players.  
   - Create new Bots.
-  - 
+    
 - **Available Mini-Games**:  
   - **Guessing Game**: Find a secret number within a defined range.  
   - **Matchstick Game**: Remove 1, 2, or 3 matchsticks. The player who removes the last matchstick loses.  
