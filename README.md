@@ -10,6 +10,7 @@ Ce programme offre une expérience ludique pour deux joueurs grâce à un menu i
 
 - **Gestion des joueurs** :
   - Création de nouveaux joueurs.
+  - Création de nouveaux bots.
 - **Mini-jeux disponibles** :
   - Devinette : Trouvez un nombre secret dans une plage définie.
   - Jeu des Allumettes : Retirez 1, 2 ou 3 allumettes. Le joueur qui retire la dernière allumette perd.
