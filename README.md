@@ -1,7 +1,7 @@
 # Mini-jeux
-# Projet Python : Mini-Jeux Interactifs
+# Projet : Mini-Jeux
 
-Ce projet a été réalisé dans le cadre de la SAE 1.01. Il propose un ensemble de mini-jeux interactifs jouables en mode console, mettant en œuvre des fonctionnalités telles que la gestion des joueurs et la sauvegarde des scores.
+Ce projet a été réalisé dans le cadre d'un projet de cours. Il propose un ensemble de mini-jeux interactifs jouables en mode console, mettant en œuvre des fonctionnalités telles que la gestion des joueurs et la sauvegarde des scores.
 
 ---
 
@@ -10,10 +10,9 @@ Ce programme offre une expérience ludique pour deux joueurs grâce à un menu i
 
 - **Gestion des joueurs** :
   - Création de nouveaux joueurs.
-  - Sélection et suppression de joueurs.
 - **Mini-jeux disponibles** :
+  - Devinette : Trouvez un nombre secret dans une plage définie.
   - Jeu des Allumettes : Retirez 1, 2 ou 3 allumettes. Le joueur qui retire la dernière allumette perd.
-  - Devinette : Trouvez un nombre secret dans une plage définie avec un nombre d'essais limité.
   - Morpion : Alignez trois symboles sur une grille 3x3 pour gagner.
   - Puissance 4 : Alignez quatre jetons sur une grille 6x7.
 - **Gestion des scores** :
@@ -30,18 +29,7 @@ Ce programme offre une expérience ludique pour deux joueurs grâce à un menu i
 ---
 
 ## **Installation et exécution**
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/Bessastien/Mini-jeux-Interactifs.git
-   ```
-2. Accédez au répertoire du projet :
-   ```bash
-   cd projet
-   ```
-3. Lancez le programme :
-   ```bash
-   python main.py
-   ```
+1. Telechargez le fichier
 
 ---
 
